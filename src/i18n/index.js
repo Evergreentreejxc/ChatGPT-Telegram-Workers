@@ -2,9 +2,10 @@
 import zhHans from './zh-hans.js';
 import zhHant from './zh-hant.js';
 import en from './en.js';
+import './type.js';
 
 /**
- *
+ * @type {I18nGenerator}
  * @param {string} lang
  * @return {I18n}
  */
